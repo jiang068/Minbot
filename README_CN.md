@@ -3,7 +3,7 @@ Maibot 仓库过于复杂且难以处理，因此我进行了简化。
 
 有关详细信息，请参阅本地化的设置指南：
 
-- [日语版](README_JP.md)
+- [日语版](README.md)
 - [英语版](README_EN.md)
 
 # Minbot 安装指南
